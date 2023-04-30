@@ -1,0 +1,15 @@
+[24-Jan-2022 12:28:10 UTC] PHP Warning:  require(/home/xomurwcink/span.gurusoftware.co.in/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xomurwcink/span.gurusoftware.co.in/artisan on line 18
+[24-Jan-2022 12:28:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xomurwcink/span.gurusoftware.co.in/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/xomurwcink/span.gurusoftware.co.in/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/xomurwcink/span.gurusoftware.co.in/artisan on line 18
+[24-Jan-2022 12:28:50 UTC] PHP Warning:  require(/home/xomurwcink/span.gurusoftware.co.in/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xomurwcink/span.gurusoftware.co.in/artisan on line 18
+[24-Jan-2022 12:28:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xomurwcink/span.gurusoftware.co.in/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/xomurwcink/span.gurusoftware.co.in/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/xomurwcink/span.gurusoftware.co.in/artisan on line 18
+[24-Jan-2022 12:29:46 UTC] PHP Warning:  require(/home/xomurwcink/span.gurusoftware.co.in/vendor/autoload.php): Failed to open stream: No such file or directory in /home/xomurwcink/span.gurusoftware.co.in/artisan on line 18
+[24-Jan-2022 12:29:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/xomurwcink/span.gurusoftware.co.in/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/xomurwcink/span.gurusoftware.co.in/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/xomurwcink/span.gurusoftware.co.in/artisan on line 18
